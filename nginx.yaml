@@ -1,4 +1,4 @@
-- name: Install and Run nginx # name is not mandatory, this is best practice
+- name: Install and Run nginx
   hosts: mongodb
   become: yes
   tasks:
