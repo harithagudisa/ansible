@@ -10,6 +10,11 @@ roboshop-us-dev-db-cart-01.linuxdevops.online
 roboshop-us-dev-db-cart-02.linuxdevops.online
 roboshop-us-dev-db-cart-03.linuxdevops.online
 
+[mongodb:vars]
+MONGO_USERNAME=mongodbadmin
+MONGO_DB=categories
+NAME=Sivakumar-inventory
+
 [user]
 roboshop-us-dev-db-user-01.linuxdevops.online
 roboshop-us-dev-db-user-02.linuxdevops.online
